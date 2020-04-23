@@ -7,6 +7,6 @@ It has been thought to work with a speific context of audio files but the source
 
 Run on linux terminal:
 ```
-pip install SpeechRecognition
-pip install pydub
+pip3 install SpeechRecognition
+pip3 install pydub
 ```
