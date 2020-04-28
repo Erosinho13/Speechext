@@ -9,4 +9,5 @@ Run on linux terminal:
 ```
 pip3 install SpeechRecognition
 pip3 install pydub
+sudo apt-get install ffmpeg
 ```
